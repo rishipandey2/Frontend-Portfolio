@@ -2,6 +2,10 @@
 
 Welcome to my Personal Portfolio – a visually stunning and interactive website built with 💻 HTML, 🎨 CSS, and ⚙️ JavaScript. This portfolio showcases my skills, projects, and personality with a clean design and smooth user experience.
 
+
+
+![Screenshot (93)](https://github.com/user-attachments/assets/97e71556-6d1d-47e3-ba5b-76600eae380a)
+
 ✨ Features
 
     💫 Modern UI/UX with sleek animations and transitions
